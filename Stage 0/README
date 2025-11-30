@@ -1,0 +1,11 @@
+# HackBio Internship 2025 – Stage 0
+
+## Overview
+
+Stage 0 of the HackBio Internship 2025 introduces basic bioinformatics and single-cell RNA-seq concepts.  
+
+Task 1: Python Script – My Profile
+A simple Python script (`my_profile.py`) that prints personal information and a fragment of my favorite gene (OXTR – oxytocin receptor). Demonstrates basic programming and handling biological data.  
+
+Task 2: Short Article – Single Cells, Big Data
+A brief article exploring how single-cell RNA sequencing captures the unique transcriptomes of individual cells, reveals cellular heterogeneity, and transforms biological research from population averages to cell-by-cell insights.
