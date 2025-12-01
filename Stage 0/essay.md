@@ -1,5 +1,6 @@
 
 **Single Cells, Big Data: How One Cell Can Tell a Thousand Stories**
+
 by: Mariam Mohamed, Slack ID: @Mariam000v
 
 Single-cell sequencing is a revolutionary, transformative technique that allows researchers to investigate a single cell type and study its interactions within the body, unlike the bulk RNA-seq where it collects signals from thousands of mixed cells independent of their type (Picelli, 2016) (Kazim & Gande, 2024). This feature makes single cells sequencing a unique tool reshaping our understanding of biological systems providing a deeper and more accurate view of the biological system, which is boosting biotechnology and healthcare innovations (Wen et al., 2022).
